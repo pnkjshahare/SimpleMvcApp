@@ -1,0 +1,96 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.0"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1765346235000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "SimpleMvcApp"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\.sonarqube\\out\\.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp"
+    },
+    {
+      "key": "sonar.sources",
+      "value": "C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\.vs\\SimpleMvcApp\\v17\\DocumentLayout.backup.json,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\.vs\\SimpleMvcApp\\v17\\DocumentLayout.json"
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "73475125-FF14-4057-85F3-6AF46F487ECA"
+    },
+    {
+      "key": "73475125-FF14-4057-85F3-6AF46F487ECA.sonar.projectKey",
+      "value": "SimpleMvcApp:73475125-FF14-4057-85F3-6AF46F487ECA"
+    },
+    {
+      "key": "73475125-FF14-4057-85F3-6AF46F487ECA.sonar.projectName",
+      "value": "SimpleMvcApp"
+    },
+    {
+      "key": "73475125-FF14-4057-85F3-6AF46F487ECA.sonar.projectBaseDir",
+      "value": "C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp"
+    },
+    {
+      "key": "73475125-FF14-4057-85F3-6AF46F487ECA.sonar.working.directory",
+      "value": "C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\.sonarqube\\out\\.sonar\\mod0"
+    },
+    {
+      "key": "73475125-FF14-4057-85F3-6AF46F487ECA.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "73475125-FF14-4057-85F3-6AF46F487ECA.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "73475125-FF14-4057-85F3-6AF46F487ECA.sonar.sources",
+      "value": "C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\Controllers\\HomeController.cs,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\Models\\ErrorViewModel.cs,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\Program.cs,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\obj\\Debug\\net8.0\\SimpleMvcApp.GlobalUsings.g.cs,\"C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs\",C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\obj\\Debug\\net8.0\\SimpleMvcApp.AssemblyInfo.cs,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\obj\\Debug\\net8.0\\SimpleMvcApp.RazorAssemblyInfo.cs,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\css\\site.css,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\favicon.ico,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\js\\site.js,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\bootstrap\\LICENSE,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\jquery\\dist\\jquery.js,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\wwwroot\\lib\\jquery\\LICENSE.txt,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\appsettings.Development.json,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\appsettings.json,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\Views\\Home\\Index.cshtml,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\Views\\Home\\Privacy.cshtml,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\Views\\Shared\\Error.cshtml,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\Views\\Shared\\_Layout.cshtml,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\Views\\_ViewImports.cshtml,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\Views\\_ViewStart.cshtml,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\Views\\Shared\\_Layout.cshtml.css,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\Properties\\launchSettings.json,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\obj\\project.assets.json,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\obj\\SimpleMvcApp.csproj.nuget.dgspec.json,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\bin\\Debug\\net8.0\\appsettings.Development.json,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\bin\\Debug\\net8.0\\appsettings.json,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\bin\\Debug\\net8.0\\SimpleMvcApp.deps.json,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\bin\\Debug\\net8.0\\SimpleMvcApp.runtimeconfig.json,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\bin\\Debug\\net8.0\\SimpleMvcApp.staticwebassets.endpoints.json,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\bin\\Debug\\net8.0\\SimpleMvcApp.staticwebassets.runtime.json,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\obj\\Debug\\net8.0\\rjimswa.dswa.cache.json,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\obj\\Debug\\net8.0\\rjsmcshtml.dswa.cache.json,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\obj\\Debug\\net8.0\\rjsmrazor.dswa.cache.json,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\obj\\Debug\\net8.0\\rpswa.dswa.cache.json,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\obj\\Debug\\net8.0\\staticwebassets.build.endpoints.json,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\obj\\Debug\\net8.0\\staticwebassets.build.json,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\obj\\Debug\\net8.0\\staticwebassets.development.json,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\SimpleMvcApp.styles.css,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SimpleMvcApp.bundle.scp.css,C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\SimpleMvcApp\\obj\\Debug\\net8.0\\scopedcss\\Views\\Shared\\_Layout.cshtml.rz.scp.css"
+    },
+    {
+      "key": "73475125-FF14-4057-85F3-6AF46F487ECA.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\.sonarqube\\out\\0"
+    },
+    {
+      "key": "73475125-FF14-4057-85F3-6AF46F487ECA.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\.sonarqube\\out\\0\\Issues.json"
+    },
+    {
+      "key": "73475125-FF14-4057-85F3-6AF46F487ECA.sonar.cs.scanner.telemetry",
+      "value": "C:\\Users\\panka\\OneDrive\\Desktop\\SimpleMvcApp\\.sonarqube\\out\\0\\Telemetry.json"
+    },
+    {
+      "key": "sonar.token",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}

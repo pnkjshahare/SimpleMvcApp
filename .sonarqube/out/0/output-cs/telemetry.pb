@@ -1,0 +1,1 @@
+cRMC:\Users\panka\OneDrive\Desktop\SimpleMvcApp\SimpleMvcApp\SimpleMvcApp.csproj¢net8.0òCSharp12
